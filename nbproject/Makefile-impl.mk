@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=png_wrapper
+PROJECTNAME=libpng-wrapper
 
 # Active Configuration
 DEFAULTCONF=Debug

@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=GNU-Linux-x86
 CND_ARTIFACT_DIR_Debug=dist/Debug/GNU-Linux-x86
-CND_ARTIFACT_NAME_Debug=png_wrapper
-CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux-x86/png_wrapper
+CND_ARTIFACT_NAME_Debug=libpng-wrapper
+CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux-x86/libpng-wrapper
 CND_PACKAGE_DIR_Debug=dist/Debug/GNU-Linux-x86/package
-CND_PACKAGE_NAME_Debug=pngwrapper.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux-x86/package/pngwrapper.tar
+CND_PACKAGE_NAME_Debug=libpng-wrapper.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux-x86/package/libpng-wrapper.tar
 # Release configuration
 CND_PLATFORM_Release=GNU-Linux-x86
 CND_ARTIFACT_DIR_Release=dist/Release/GNU-Linux-x86
-CND_ARTIFACT_NAME_Release=png_wrapper
-CND_ARTIFACT_PATH_Release=dist/Release/GNU-Linux-x86/png_wrapper
+CND_ARTIFACT_NAME_Release=libpng-wrapper
+CND_ARTIFACT_PATH_Release=dist/Release/GNU-Linux-x86/libpng-wrapper
 CND_PACKAGE_DIR_Release=dist/Release/GNU-Linux-x86/package
-CND_PACKAGE_NAME_Release=pngwrapper.tar
-CND_PACKAGE_PATH_Release=dist/Release/GNU-Linux-x86/package/pngwrapper.tar
+CND_PACKAGE_NAME_Release=libpng-wrapper.tar
+CND_PACKAGE_PATH_Release=dist/Release/GNU-Linux-x86/package/libpng-wrapper.tar
 #
 # include compiler specific variables
 #
