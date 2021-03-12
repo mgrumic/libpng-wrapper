@@ -23,6 +23,10 @@ void test()
 {
 }
 
+void test2()
+{
+}
+
 void dump_data(unsigned char* ptr, int height, int stride){
     int i, j;
     for(i = 0; i<height; i++){
